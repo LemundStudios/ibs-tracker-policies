@@ -51,11 +51,6 @@ This information is used solely for debugging and improving the app's performanc
 - Encrypted when your device is locked
 - Not accessible to other applications
 
-### iCloud Backup (Optional)
-- If you use iCloud backup, your app data may be included
-- This backup is encrypted and managed by Apple
-- We cannot access your iCloud data
-
 ## Your Rights
 
 You have full control over your data:
