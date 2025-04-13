@@ -1,0 +1,85 @@
+ IBS Tracker Support
+
+## Getting Started
+
+### App Overview
+IBS Tracker helps you monitor and manage IBS symptoms by tracking:
+- Food intake
+- Symptoms
+- Reactions to different foods
+- Patterns and triggers
+
+### Key Features
+1. Food Logging
+   - Log meals and drinks
+   - Add ingredients
+   - Track portion sizes
+   - Note preparation methods
+
+2. Symptom Tracking
+   - Record symptom types
+   - Track severity
+   - Log duration
+   - Note location and stress levels
+
+3. Reaction Management
+   - Identify trigger foods
+   - Mark safe foods
+   - Track experimental items
+   - Monitor reactions over time
+
+4. Analysis
+   - View patterns
+   - Identify correlations
+   - Track progress
+   - Generate insights
+
+## Common Questions
+
+### Data Management
+
+**Q: Can I export my data?**
+A: Currently, data export is not supported. We're considering this for future updates.
+
+**Q: Is my data secure?**
+A: Yes, all data is stored locally on your device and protected by your device's security features.
+
+### Using the App
+
+**Q: How do I add a new food entry?**
+A: Tap the knife and fork button on the home screen. Fill in the details about your meal or drink.
+
+**Q: How do I log symptoms?**
+A: Use the "IBS Alert" button to record new symptoms. You can specify type, severity, and duration.
+
+**Q: How do I mark food as a trigger?**
+A: In the reaction manager, select a food item and choose "Trigger" from the reaction options.
+
+**Q: How do I backup my data?**
+A: We do not currently backup any data.
+
+### Troubleshooting
+
+**Q: The app is running slowly**
+A: Try these steps:
+1. Close and restart the app
+2. Ensure your device has available storage
+3. Update to the latest version
+4. If issues persist, reinstall the app
+
+**Q: Lost data after update**
+A: Your data should persist through updates. If you experience data loss:
+1. Check if iCloud backup is enabled
+2. Restart your device
+3. Contact support if issues continue
+
+## Contact Support
+
+Need additional help? Contact us:
+- Email: lemundstudios@gmail.com
+
+## Updates and Feedback
+
+To suggest features or report issues send us an email
+
+Your feedback helps us improve the app for everyone!
