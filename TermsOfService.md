@@ -53,6 +53,9 @@ By using IBS Tracker, you acknowledge that:
    - Track progress
    - Generate insights
 
+AI Feature Disclaimer:
+IBS Tracker may provide AI-generated food logging suggestions. These suggestions can be incomplete or incorrect and must be reviewed by you before saving. AI output is for convenience/informational purposes only and is not medical advice. Feature limits and availability may vary by plan and may change over time.
+
 ## Common Questions
 
 ### Data Management
