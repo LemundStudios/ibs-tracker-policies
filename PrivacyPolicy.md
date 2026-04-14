@@ -78,4 +78,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions about this Privacy Policy, please contact us:
 - Email: lemundstudios@gmail.com
 
-This policy is effective as of 2025-04-13
+This policy is effective as of 2026-04-14
