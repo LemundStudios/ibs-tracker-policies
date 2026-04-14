@@ -31,6 +31,9 @@ Links to the privacy policies of third-party service providers:
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy)
 - [RevenueCat](https://www.revenuecat.com/privacy)
 
+### AI Food Photo Analysis (Optional):
+If you choose to use AI food photo analysis, the image you submit (and optional meal text hints) is securely sent to our backend service (Firebase Cloud Functions) and processed by OpenAI to generate ingredient/tag suggestions. This processing is used only to provide the feature and improve reliability. Your core tracking data remains stored locally on your device unless you explicitly use this AI feature.
+
 ### Log Data
 
 In case of an error in the app, we collect data and information (through third-party products) called Log Data. This Log Data may include information such as your:
