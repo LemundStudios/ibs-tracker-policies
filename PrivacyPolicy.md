@@ -25,11 +25,14 @@ The app does use third-party services that may collect information used to ident
 - RevenueCat
   - Handles subscription management
   - Processes purchase transactions
+- OpenAI
+  - Handles analysis of photos (optional)
 
 Links to the privacy policies of third-party service providers:
 - [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy)
 - [RevenueCat](https://www.revenuecat.com/privacy)
+- [OpenAI](https://openai.com/policies/privacy-policy)
 
 ### AI Food Photo Analysis (Optional):
 If you choose to use AI food photo analysis, the image you submit (and optional meal text hints) is securely sent to our backend service (Firebase Cloud Functions) and processed by OpenAI to generate ingredient/tag suggestions. This processing is used only to provide the feature and improve reliability. Your core tracking data remains stored locally on your device unless you explicitly use this AI feature.
@@ -75,4 +78,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions about this Privacy Policy, please contact us:
 - Email: lemundstudios@gmail.com
 
-This policy is effective as of 2025-04-13
+This policy is effective as of 2026-04-14
